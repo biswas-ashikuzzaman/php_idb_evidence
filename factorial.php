@@ -45,14 +45,7 @@ if (isset($_POST['submit'])) {
     }
 }
 ?>
-<form action="" method="post">
-    <label for="num">Enter a number:</label>
-    <input type="number" name="num" id="num" required>
-    <input type="submit" name="submit" value="Calculate Factorial">
-</form>
-<?php 
 
-?>
 
 </body>  
 </html>  
