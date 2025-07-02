@@ -17,7 +17,7 @@
     $fact=1;
     if($n<0){
         echo"Factorial of negative number is not defined.";
-    } elseif($n==0 || $n==10){
+    } elseif($n==0 || $n==1){
         echo "Factorial of $n is 1";
     } else{
         for($i=2;$i<=$n;$i++){
